@@ -1,20 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+15x Salesforce certified.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Developer evangelist and passionate about DevOps!
+Skilled in APEX, Visualforce, Aura components, LWC, SFDX, Git, Github Actions, SOAP, REST, HTML, CSS, Javascript, Node, and Python.
 
-What else do you need?
+Over the past six years, I've worked on various enterprise implementations/staff augmentation engagements.
+
+In addition to my client engagements, I've provided training/mentorship to 50+ junior developers on the Salesforce platform. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
-### My Wedding
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I0-oTXMapF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Check out this wedding [video](https://www.youtube.com/embed/I0-oTXMapF4) Soon L Vue put together for my wife and I!
