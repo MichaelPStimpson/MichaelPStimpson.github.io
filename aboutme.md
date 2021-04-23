@@ -16,6 +16,4 @@ In addition to my client engagements, I've provided training/mentorship to 50+ j
 
 ### Personal
 
-In my free time I've been known to infrequently play Yu-Gi-Oh!
-
 Check out this wedding [video](https://www.youtube.com/watch?v=I0-oTXMapF4) Soon L Vue put together for my wife and I!
