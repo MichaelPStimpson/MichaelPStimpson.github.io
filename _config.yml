@@ -14,10 +14,12 @@ author: Michael Stimpson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Posts: "postlist"
+  Linkedin: "https://www.linkedin.com/in/michaelpstimpson/"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+# Resources:
+#   - Beautiful Jekyll: "https://beautifuljekyll.com"
+#   - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://www.michaelpstimpson.com/"
 
 # --- Logo --- #
