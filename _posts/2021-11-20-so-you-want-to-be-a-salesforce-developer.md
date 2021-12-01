@@ -12,14 +12,11 @@ We're covering three main areas here: developer tooling, essential skills, sales
 
 ## Developer Tooling
 
-| :------ |
-| VS Code |
-| SFDX |
-| Git |
+#### VS Code
 
-VS Code
-SFDX
-Git
+#### SFDX
+
+#### Git
 
 ## Basic Web Dev
 
