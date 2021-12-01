@@ -1,7 +1,7 @@
 ---
 layout: post
 title: So you want to be a Salesforce developer?
-subtitle: A Documented Path to Success by Mike Stimpson
+subtitle:
 cover-img: /assets/img/bgOne.jpg
 thumbnail-img: /assets/img/thumbOne.jpg
 share-img: /assets/img/thumbOne.jpg
