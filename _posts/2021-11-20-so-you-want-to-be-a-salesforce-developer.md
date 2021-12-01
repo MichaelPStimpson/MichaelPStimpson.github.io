@@ -12,9 +12,9 @@ Whether you're new to Salesforce, or an experienced admin looking to skill up. M
 
 ## Developer Tooling
 
-    VS Code will be your bread and butter day in and day out.
+    <p>VS Code will be your bread and butter day in and day out.
     To get started there on the platform you only need one tool, SFDX.
-    Being familiar with a source control tool is essential in todays market.
+    Being familiar with a source control tool is essential in todays market.</p>
 
 <ul>
   <li>VS Code</li>
