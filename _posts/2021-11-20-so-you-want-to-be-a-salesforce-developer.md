@@ -8,7 +8,7 @@ share-img: /assets/img/thumbOne.jpg
 tags: [salesforce, developer, career, skills]
 ---
 
-We're covering three main areas here: developer tooling, essential skills, salesforce skills, and certifications.
+We're covering four areas here: developer tooling, essential skills, salesforce skills, and certifications.
 
 ## Developer Tooling
 
@@ -20,21 +20,21 @@ We're covering three main areas here: developer tooling, essential skills, sales
 
 ## Basic Web Dev
 
-##### HTML/XML
+#### HTML/XML
 
-##### CSS
+#### CSS
 
-##### JSON
+#### JSON
 
-##### JavaScript/NodeJs
+#### JavaScript/NodeJs
 
 ## Salesforce specific Dev
 
-###### SOQL/SOSL
+#### SOQL/SOSL
 
-###### Apex
+#### Apex
 
-###### LWC
+#### LWC
 
 ## Certifications
 
