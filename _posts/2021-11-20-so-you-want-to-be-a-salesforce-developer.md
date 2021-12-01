@@ -14,8 +14,11 @@ We're covering four areas here: developer tooling, essential skills, salesforce 
 
 <ul>
   <li>VS Code</li>
+  <p>This is the IDE</p>
   <li>SFDX</li>
+  <p>This is the SF CLI</p>
   <li>Git</li>
+  <p>This is the source control</p>
 </ul>
 
 ## Basic Web Dev
