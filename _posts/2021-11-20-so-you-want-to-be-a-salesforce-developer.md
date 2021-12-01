@@ -38,11 +38,11 @@ We're covering four areas here: developer tooling, essential skills, salesforce 
 
 ## Certifications
 
-App Builder
+<p style="color:blue"> App Builder</p>
 Dev1
 Dev2
 JSDev1
 
-##Honorable mentions:
+## Honorable mentions:
 
 Aura/Visualforce, Programming paradigms (OOP), Design Patterns, Dev Ops, APIs/integrations
