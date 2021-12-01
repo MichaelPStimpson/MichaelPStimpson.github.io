@@ -61,7 +61,7 @@ Whether you're new to Salesforce, or an experienced admin looking to skill up. M
 
 ## Honorable mentions:
 
-    This list includes items we'll talk about in their own future posts.
+This list includes items we'll talk about in their own future posts.
 
 <ul>
   <li>Aura/Visualforce</li>
