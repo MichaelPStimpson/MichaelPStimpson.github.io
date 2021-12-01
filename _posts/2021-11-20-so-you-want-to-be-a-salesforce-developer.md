@@ -20,16 +20,21 @@ We're covering three main areas here: developer tooling, essential skills, sales
 
 ## Basic Web Dev
 
-HTML/XML
-CSS
-JSON
-JavaScript/NodeJs
+##### HTML/XML
+
+##### CSS
+
+##### JSON
+
+##### JavaScript/NodeJs
 
 ## Salesforce specific Dev
 
-SOQL/SOSL
-Apex
-LWC
+###### SOQL/SOSL
+
+###### Apex
+
+###### LWC
 
 ## Certifications
 
