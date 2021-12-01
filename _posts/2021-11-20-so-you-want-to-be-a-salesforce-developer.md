@@ -3,8 +3,8 @@ layout: post
 title: So you want to be a Salesforce developer?
 subtitle: A Documented Path to Success by Mike Stimpson
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumbOne.jpg
+share-img: /assets/img/bgOne.jpg
 tags: [salesforce, developer, career, skills]
 ---
 
