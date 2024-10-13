@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728850717657.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728851763430.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-42aaf7f0-c267-42ea-822d-5dfde5f4913f" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Contact Us"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/42aaf7f0-c267-42ea-822d-5dfde5f4913f/style-1728850717657.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/42aaf7f0-c267-42ea-822d-5dfde5f4913f/style-1728851763430.css" />\
       <div class="freeLayout">\
       <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Home"   datasizewidth="150.00px" datasizeheight="45.00px" dataX="107.00" dataY="240.00" >\
         <div class="backgroundLayer">\
@@ -219,7 +219,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_7" class="richtext manualfit firer ie-background commentable non-processed" customid="Thank you! We&#039;ll reach ou"   datasizewidth="117.34px" datasizeheight="54.00px" dataX="720.66" dataY="659.50" >\
+      <div id="s-Text_7" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Thank you! We&#039;ll reach ou"   datasizewidth="117.34px" datasizeheight="54.00px" dataX="720.66" dataY="659.50" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
