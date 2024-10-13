@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728851763430.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728852652881.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-42aaf7f0-c267-42ea-822d-5dfde5f4913f" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Contact Us"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/42aaf7f0-c267-42ea-822d-5dfde5f4913f/style-1728851763430.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/42aaf7f0-c267-42ea-822d-5dfde5f4913f/style-1728852652881.css" />\
       <div class="freeLayout">\
       <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Home"   datasizewidth="150.00px" datasizeheight="45.00px" dataX="107.00" dataY="240.00" >\
         <div class="backgroundLayer">\
@@ -253,6 +253,36 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="content">\
               <div class="valign">\
                 <span id="rtr-s-Text_8_0">Email</span><span id="rtr-s-Text_8_1">: info@taniti.com <br /></span><span id="rtr-s-Text_8_2">Phone</span><span id="rtr-s-Text_8_3">: 123-456-7890</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_9" class="richtext manualfit firer ie-background commentable non-processed" customid="Header image: bp.blogspot"   datasizewidth="1239.91px" datasizeheight="72.00px" dataX="28.00" dataY="719.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_9_0">Header image: bp.blogspot, Polynesia Ahiti Island, (n.d.), https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-7hNYJBd6NOg%2FTrwZdmr6wNI%2FAAAAAAAAEes%2FhNvlM8eJ8P8%2Fs1600%2FFrench%2BPolynesia%2BTahiti%2BIsland%2BWallpapers9.jpg&amp;f=1&amp;nofb=1&amp;ipt=d55949fff7873f64b1e4dfafd08e765925220867763064cb96ba4b74e490fd2e&amp;ipo=images</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_10" class="richtext manualfit firer ie-background commentable non-processed" customid="Society Islands, bg-islan"   datasizewidth="358.00px" datasizeheight="55.00px" dataX="886.00" dataY="631.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_10_0">Society Islands, bg-island, (n.d.), https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsocietyislands.com%2Fwp-content%2Fthemes%2FSocietyIslands.com%2Fdata%2Fimg%2Fbg-island.jpg&amp;f=1&amp;nofb=1&amp;ipt=298d3d8566bae1808809c74c3e8cc5313b60be9cf1f948773daba51412d481ed&amp;ipo=images</span>\
               </div>\
             </div>\
           </div>\

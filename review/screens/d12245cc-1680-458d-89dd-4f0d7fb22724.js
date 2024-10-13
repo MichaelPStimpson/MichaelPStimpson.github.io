@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728851763430.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1728852652881.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Home"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1728851763430.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1728852652881.css" />\
       <div class="freeLayout">\
       <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Home"   datasizewidth="150.00px" datasizeheight="45.00px" dataX="107.00" dataY="240.00" >\
         <div class="backgroundLayer">\
@@ -263,6 +263,21 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         </div>\
       </div>\
 \
+      <div id="s-Text_12" class="richtext manualfit firer ie-background commentable non-processed" customid="Header image: bp.blogspot"   datasizewidth="1239.91px" datasizeheight="72.00px" dataX="32.00" dataY="689.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_12_0">Header image: bp.blogspot, Polynesia Ahiti Island, (n.d.), https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-7hNYJBd6NOg%2FTrwZdmr6wNI%2FAAAAAAAAEes%2FhNvlM8eJ8P8%2Fs1600%2FFrench%2BPolynesia%2BTahiti%2BIsland%2BWallpapers9.jpg&amp;f=1&amp;nofb=1&amp;ipt=d55949fff7873f64b1e4dfafd08e765925220867763064cb96ba4b74e490fd2e&amp;ipo=images</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\
